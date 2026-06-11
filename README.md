@@ -49,7 +49,7 @@ Archery-Arena/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Archery-Arena.git
+git clone https://github.com/Shivang9983/Archery-Arena.git
 ```
 
 2. Navigate to the project folder:
@@ -77,12 +77,8 @@ cd Archery-Arena
 
 ## 🤝 Contributing
 
-Contributions are welcome. Feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
+Contributions are welcome. Feel free to fork the repository and submit a pull request
 
 ---
 
-Made with ❤️ by **Butcher**
+Made with ❤️ by **Shivang kuamr**
